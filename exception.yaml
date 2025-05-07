@@ -1,0 +1,9 @@
+title: Exception
+description: Raises an exception to test the error reporting in PR check runs.
+authors:
+  - name: Jonathan Sick
+parameters:
+  message:
+    type: string
+    description: A message to print.
+    default: "Hello, world!"
