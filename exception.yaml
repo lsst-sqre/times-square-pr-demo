@@ -1,4 +1,4 @@
-enabled: false
+enabled: true
 title: Exception
 description: Raises an exception to test the error reporting in PR check runs.
 authors:
