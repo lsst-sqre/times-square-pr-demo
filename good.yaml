@@ -1,0 +1,5 @@
+enabled: true
+title: Good
+description: >
+  This notebook is an example of a check run that succeeds.
+parameters: {}
