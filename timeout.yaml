@@ -1,6 +1,7 @@
-enabled: false
+enabled: true
 title: Timeout
 description: This notebook times out.
 authors:
   - name: Jonathan Sick
 parameters: {}
+timeout: 500  # extra timeout
