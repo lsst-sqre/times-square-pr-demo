@@ -4,4 +4,4 @@ description: This notebook times out.
 authors:
   - name: Jonathan Sick
 parameters: {}
-timeout: 400  # extra timeout
+timeout: 300
