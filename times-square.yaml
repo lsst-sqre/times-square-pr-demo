@@ -1,3 +1,5 @@
 enabled: true
 description: >
   Times Square PR check run engineering demo notebooks.
+ignore:
+  - load-test/*
