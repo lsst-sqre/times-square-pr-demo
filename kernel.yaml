@@ -1,0 +1,6 @@
+enabled: true
+title: Kernel
+# This notebook tests running with the LSST kernel, even though the source kernelspec is python3.
+description: >
+  This notebook tests if Times Square can successfully change the kernel to `lsst` when running a notebook that was authored with a `python3` kernelspec.
+parameters: {}
