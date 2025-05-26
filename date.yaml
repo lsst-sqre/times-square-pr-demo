@@ -1,0 +1,11 @@
+enabled: true
+title: Date
+description: >
+  Demonstration of a date parameter that defaults to the current date.
+parameters:
+  date:
+    type: string
+    format: date
+    dynamic_default: today
+    description: >
+      The date (YYYY-MM-DD).
