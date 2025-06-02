@@ -8,7 +8,7 @@ parameters:
     format: date
     dynamic_default: today
     description: >
-      The date (YYYYMMDD).
+      The date.
 schedule:
   - by_minute: [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55]
     # This will run the page every hour at the start of the hour and every 5 minutes thereafter.
