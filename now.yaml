@@ -1,0 +1,11 @@
+enabled: true
+title: Now
+description: >
+  Demonstration of scheduled page.
+parameters:
+  date:
+    type: string
+    format: date
+    dynamic_default: today
+    description: >
+      The date (YYYYMMDD).
