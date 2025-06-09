@@ -15,4 +15,4 @@ schedule:
     # For example: 00:00, 00:05, 00:10, ..., 23:55
     hour: null
     freq: minutely
-schedule_enabled: true
+schedule_enabled: false
