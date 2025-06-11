@@ -1,0 +1,11 @@
+enabled: true
+title: DayObs Date
+description: >
+  Demonstration of an dayobs-date parameter that defaults to the current date.
+parameters:
+  date:
+    type: string
+    format: dayobs-date
+    dynamic_default: today
+    description: >
+      The DAYOBS (YYYY-MM-DD).
