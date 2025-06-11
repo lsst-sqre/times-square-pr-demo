@@ -1,5 +1,5 @@
 enabled: true
-title: Date
+title: DayObs
 description: >
   Demonstration of an DAYOBS parameter that defaults to the current date.
 parameters:
